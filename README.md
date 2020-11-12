@@ -1,5 +1,6 @@
 # CogRank
 Our work
+
 ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation.
 Yufei Feng*, Binbin Hu*, Fuyu Lv, Qingwen Liu, Zhiqiang Zhang and Wenwu Ou. (* equal contribution)
 In Proceedings of The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020)
